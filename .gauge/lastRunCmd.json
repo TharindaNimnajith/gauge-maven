@@ -1,8 +1,8 @@
 [
-	"C:\\Program Files\\gauge\\bin\\gauge.exe",
-	"run",
-	"--machine-readable",
-	"--hide-suggestion",
-	"--simple-console",
-	"D:/gauge-maven/specs/example.spec"
+  "C:\\Program Files\\gauge\\bin\\gauge.exe",
+  "run",
+  "--machine-readable",
+  "--hide-suggestion",
+  "--simple-console",
+  "D:/gauge-maven/specs/example.spec"
 ]
