@@ -6,11 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="gauge-test" />
+        <module name="gauge-maven" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="gauge-test" target="11" />
-    </bytecodeTargetLevel>
   </component>
 </project>
