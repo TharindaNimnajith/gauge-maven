@@ -5,4 +5,26 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;gauge&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="example.spec" type="executeSpecs" factoryName="GaugeConfigurationFactory" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="gauge-maven" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gauge Execution.example.spec" />
+      </list>
+    </recent_temporary>
+  </component>
 </project>
